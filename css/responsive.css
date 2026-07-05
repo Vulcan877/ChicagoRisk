@@ -20,12 +20,12 @@
     left: 0;
     right: 0;
     flex-direction: column;
-    background: rgba(246, 248, 250, .97);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    background: var(--cr-bg-page);
+    box-shadow: 0 12px 24px rgba(11, 30, 40, .12);
     border-bottom: 1px solid var(--cr-border);
     padding: 16px var(--cr-gutter);
     gap: 4px;
+    z-index: 60;
   }
 
   .nav-links.open {
