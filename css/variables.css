@@ -1,11 +1,11 @@
 :root {
   /* Colors - Primary */
-  --cr-navy: #102A43;
-  --cr-gold: #C9A23F;
-  --cr-gold-hover: #b88f33;
-  --cr-gold-dark: #A8842F;
-  --cr-gold-light: #E6CB82;
-  --cr-gold-muted: #E3D3A8;
+  --cr-navy: #0B1E28;
+  --cr-gold: #2db4dd;
+  --cr-gold-hover: #2299bc;
+  --cr-gold-dark: #1a7d99;
+  --cr-gold-light: #7dd3ee;
+  --cr-gold-muted: #cdeaf4;
   --cr-blue: #2C5F8A;
 
   /* Colors - Text */
@@ -17,7 +17,7 @@
   --cr-text-faint: #9aa6b2;
 
   /* Colors - Backgrounds */
-  --cr-bg-page: #F6F8FA;
+  --cr-bg-page: #F6FBFD;
   --cr-bg-white: #FFFFFF;
   --cr-bg-input: #FAFBFC;
 

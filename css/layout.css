@@ -10,7 +10,7 @@
   position: sticky;
   top: 0;
   z-index: 50;
-  background: rgba(246, 248, 250, .88);
+  background: rgba(246, 251, 253, .88);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--cr-border);
@@ -37,15 +37,12 @@
 .logo {
   text-decoration: none;
   cursor: pointer;
-  font-family: var(--cr-font-serif);
-  font-size: 23px;
-  font-weight: 600;
-  letter-spacing: -.01em;
+  display: flex;
+  align-items: center;
   white-space: nowrap;
 }
 
-.logo-carolina { color: var(--cr-navy); }
-.logo-risk { color: var(--cr-gold); }
+.logo img { height: 51px; width: auto; display: block; }
 
 .nav-links {
   display: flex;
@@ -112,13 +109,14 @@
 }
 
 .footer-logo {
-  font-family: var(--cr-font-serif);
-  font-size: 24px;
-  font-weight: 600;
+  display: inline-block;
+  background: #fff;
+  border-radius: var(--cr-radius-lg);
+  padding: 10px 14px;
   margin-bottom: 16px;
 }
 
-.footer-logo .logo-carolina { color: #fff; }
+.footer-logo img { height: 84px; width: auto; display: block; }
 
 .footer-desc {
   font: 400 15px/1.7 var(--cr-font-sans);

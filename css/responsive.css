@@ -202,10 +202,7 @@
 
   .case-outcome {
     padding: 30px 34px;
-  }
-
-  .case-outcome-value {
-    font-size: 38px;
+    height: 260px;
   }
 
   .results-list {
