@@ -318,22 +318,8 @@
 }
 
 /* ============ HOW WE SERVE ============ */
-.serve-banner {
-  padding: 8px 0 40px;
-}
-
-.serve-banner-img {
-  width: 100%;
-  height: auto;
-  max-height: 320px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: var(--cr-radius-md);
-  display: block;
-}
-
 .serve-cards {
-  padding: 0 0 110px;
+  padding: 36px 0 110px;
 }
 
 .serve-cards__grid {

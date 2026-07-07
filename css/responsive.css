@@ -16,6 +16,7 @@
     min-width: 44px;
     min-height: 44px;
     padding: 0;
+    margin-left: auto;
   }
 
   .nav-links {
@@ -197,16 +198,8 @@
   }
 
   /* Serve Cards */
-  .serve-banner {
-    padding: 0 0 24px;
-  }
-
-  .serve-banner-img {
-    max-height: 200px;
-  }
-
   .serve-cards {
-    padding: 0 0 80px;
+    padding: 24px 0 80px;
   }
 
   .serve-cards__grid {
