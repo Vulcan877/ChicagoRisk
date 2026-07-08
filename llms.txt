@@ -17,15 +17,15 @@ client's side of the table, free of commissions and carrier appointments.
 Illinois, United States
 
 ## Contact
-- Website: https://chicagorisk.net
+- Website: https://www.chicagorisk.net
 - Email: DMacknin@ChicagoRisk.net
 - Phone: 312.320.6688
 
 ## Pages
-- Home: https://chicagorisk.net/
-- Who We Are: https://chicagorisk.net/who-we-are.html
-- Expertise: https://chicagorisk.net/expertise.html
-- How We Serve: https://chicagorisk.net/how-we-serve.html
-- Results: https://chicagorisk.net/results.html
-- Testimonials: https://chicagorisk.net/testimonials.html
-- Contact: https://chicagorisk.net/contact.html
+- Home: https://www.chicagorisk.net/
+- Who We Are: https://www.chicagorisk.net/who-we-are.html
+- Expertise: https://www.chicagorisk.net/expertise.html
+- How We Serve: https://www.chicagorisk.net/how-we-serve.html
+- Results: https://www.chicagorisk.net/results.html
+- Testimonials: https://www.chicagorisk.net/testimonials.html
+- Contact: https://www.chicagorisk.net/contact.html

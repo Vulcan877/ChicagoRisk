@@ -1,3 +1,3 @@
-1. make this a shareable link on my github pages
-2. completely delete the bottom quote at the bottom of "index"
-3. I have added a new EE2 image, replace accordingly 
+1. on phones, the hamburger drop down menu is on the left side of the nav bar, make it on the right side
+2. In Measurable Results, make case 13 the new case 01, change the case numbers and the photo names per case accordingly
+3. once you have done these updates, push to guthub main
