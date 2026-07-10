@@ -23,9 +23,9 @@ Illinois, United States
 
 ## Pages
 - Home: https://www.chicagorisk.net/
-- Who We Are: https://www.chicagorisk.net/who-we-are.html
-- Expertise: https://www.chicagorisk.net/expertise.html
-- How We Serve: https://www.chicagorisk.net/how-we-serve.html
-- Results: https://www.chicagorisk.net/results.html
-- Testimonials: https://www.chicagorisk.net/testimonials.html
-- Contact: https://www.chicagorisk.net/contact.html
+- Who We Are: https://www.chicagorisk.net/who-we-are
+- Expertise: https://www.chicagorisk.net/expertise
+- How We Serve: https://www.chicagorisk.net/how-we-serve
+- Results: https://www.chicagorisk.net/results
+- Testimonials: https://www.chicagorisk.net/testimonials
+- Contact: https://www.chicagorisk.net/contact
