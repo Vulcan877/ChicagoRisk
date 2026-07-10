@@ -1,3 +1,3 @@
-1. on phones, the hamburger drop down menu is on the left side of the nav bar, make it on the right side
-2. In Measurable Results, make case 13 the new case 01, change the case numbers and the photo names per case accordingly
-3. once you have done these updates, push to guthub main
+resize the 11 case imahes to a sane max dimension + moderate JPEG quality (~80-85%) would make these load much faster with no visible difference. I would not want to push quality much below that, since a couple of these images (fire, fireworks) have detail/gradients that show compression artifacts sooner.
+"""
+I need you to make sure that, when veiwing on mobile (or anywhere else the hamburger drop down nav is used) that the "Contact Us" link appears at the bottom. The words "Contact Us" should be the bg color of the button of the sticky nav bar on ex. a computer. Please ask me to clarify if my instructions are confusing. If not, impliment these changes. Look at CarolinaRisk for refrence.
